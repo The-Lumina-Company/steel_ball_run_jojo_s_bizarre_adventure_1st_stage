@@ -1,1 +1,9 @@
-# steel_ball_run_jojo_s_bizarre_adventure_1st_stage
+# STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE (2026) Türkçe Çeviri
+
+## Çeviri Ekibi
+
+| Görev | İsim |
+|---|---|
+| **Çevirmen** | --- |
+| **Editör** | --- |
+| **Son Kontrol** | --- |
